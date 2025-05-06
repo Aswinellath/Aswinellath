@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Aswinellath/Aswinellath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**  Aswinellath/Aswinellath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Aswin E. – QA Engineer | Automation Enthusiast | Lifelong Learner
+
+I'm a Quality Analyst with 2+ years of experience in manual and automation testing. Passionate about building efficient test automation frameworks, exploring DevOps workflows, and continuously learning new technologies.
+
+Tech I'm familiar with: Selenium WebDriver, Java, TestNG, Postman, REST Assured, Git, Jenkins
+
+Currently building projects that demonstrate real-world automation, API testing, and CI/CD integration.
+
+Let's connect!
+
+LinkedIn: [[your-link](https://www.linkedin.com/in/aswin-e-85b2b7131/)]
+
+Portfolio (if any): [your-portfolio-link]
