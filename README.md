@@ -24,6 +24,6 @@ Currently building projects that demonstrate real-world automation, API testing,
 
 Let's connect!
 
-LinkedIn: [[your-link](https://www.linkedin.com/in/aswin-e-85b2b7131/)]
+LinkedIn: [[Aswin E](https://www.linkedin.com/in/aswin-e-85b2b7131/)]
 
-Portfolio (if any): [your-portfolio-link]
+<!--Portfolio (if any): [your-portfolio-link]-->
