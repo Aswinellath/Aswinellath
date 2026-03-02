@@ -18,7 +18,7 @@ Hi, I'm Aswin E. – QA Engineer | Automation Enthusiast | Lifelong Learner
 
 I'm a Quality Analyst with 2+ years of experience in manual and automation testing. Passionate about building efficient test automation frameworks, exploring DevOps workflows, and continuously learning new technologies.
 
-Tech I'm familiar with: Selenium WebDriver, Java, TestNG, Postman, REST Assured, Git, Jenkins
+Tech I'm familiar with: Playwright - Typescript, Selenium WebDriver, Java, TestNG, Postman, REST Assured, Git, Jenkins
 
 Currently building projects that demonstrate real-world automation, API testing, and CI/CD integration.
 
