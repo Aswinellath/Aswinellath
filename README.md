@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 -->
 Hi, I'm Aswin E. – QA Engineer | Automation Enthusiast | Lifelong Learner
 
-I'm a Quality Analyst with 2+ years of experience in manual and automation testing. Passionate about building efficient test automation frameworks, exploring DevOps workflows, and continuously learning new technologies.
+:office: I'm a Quality Analyst with 2+ years of experience in manual and automation testing. Passionate about building efficient test automation frameworks, exploring DevOps workflows, and continuously learning new technologies.
 
-Tech I'm familiar with: Playwright - Typescript, Selenium WebDriver, Java, TestNG, Postman, REST Assured, Git, Jenkins
+:computer: Tech I'm familiar with: Playwright - Typescript, Selenium WebDriver, Java, TestNG, Postman, REST Assured, Git, Jenkins
 
 Currently building projects that demonstrate real-world automation, API testing, and CI/CD integration.
 
-Let's connect!
+👯 Let's connect!
 
-LinkedIn: [[Aswin E](https://www.linkedin.com/in/aswin-e-85b2b7131/)]
+💬 LinkedIn: [[Aswin E](https://www.linkedin.com/in/aswin-e-85b2b7131/)] 📫
+
 
 <!--Portfolio (if any): [your-portfolio-link]-->
